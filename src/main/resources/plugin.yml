@@ -1,0 +1,8 @@
+name: BlockCreator
+main: com.aaomidi.blockcreator.BlockCreator
+author: aaomidi
+version: 1.0
+commands:
+    block:
+        description: Turn your ingots into blocks!
+        permission: blockcreator.use

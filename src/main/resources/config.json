@@ -1,0 +1,15 @@
+{
+  "blocks": [
+    "IRON_BLOCK",
+    "DIAMOND_BLOCK",
+    "GOLD_BLOCK",
+    "EMERALD_BLOCK",
+    "QUARTZ_BLOCK",
+    "GOLD_INGOT",
+    "COAL_BLOCK",
+    "REDSTONE_BLOCK",
+    "HAY_BLOCK",
+    "GLOWSTONE",
+    "BRICK"
+  ]
+}
