@@ -20,7 +20,7 @@ public class CommandHandler implements CommandExecutor {
             return false;
         }
         Player player = (Player) commandSender;
-        for (ItemStack item : player.getInventory()) {
+        for (ItemStack item : player.getInventory().getStorageContents()) {
             if (item == null) continue;
 
             ItemStack[] result = instance.getHandler().handle(item);
